@@ -6,7 +6,6 @@ var yourage = currentYear - birth_Year;
 
 var total = `
 Your birth Year is ${birth_Year}
-Your age is ${yourage}`
-console.log(total);
+Your age is ${yourage}`;
 
 alert(total)
